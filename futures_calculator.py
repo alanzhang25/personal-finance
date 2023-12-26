@@ -10,6 +10,7 @@ def market_drop(leveraged_x, new_leveraged_x):
     return total_amount_drop / amount
 
 
+#given a ratio of 50/50 for upro and mes
 def upro_mes_portfolio(curr_lev):
     amount = 10000.
     
